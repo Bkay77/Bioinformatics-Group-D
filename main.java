@@ -1,4 +1,4 @@
-public class BioinformaticsInfo {
+public class Main {
     public static void main(String[] args) {
         // Information
         String name = "Hauwa Abubakar Yaro";
